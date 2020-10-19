@@ -1,4 +1,4 @@
-alert(spinWords("Hey fellow warriors"));
+alert(spinWords("Add_your_line_here"));
 
 function spinWords(str){
     let separator = ' ';
