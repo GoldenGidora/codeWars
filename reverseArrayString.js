@@ -1,8 +1,8 @@
 alert(spinWords("Add_your_line_here"));
 
 function spinWords(str){
-    let separator = ' ';
-    let arraySTR = str.split(' ');
+    const separator = ' ';
+    let arraySTR = str.split(separator);
     let i = 0;
     for (let word of arraySTR){
         console.log(arraySTR);
